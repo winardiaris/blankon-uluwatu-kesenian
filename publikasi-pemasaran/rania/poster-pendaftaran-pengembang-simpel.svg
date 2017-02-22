@@ -1089,9 +1089,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.39077129"
-     inkscape:cx="418.58607"
-     inkscape:cy="583.97626"
+     inkscape:zoom="0.41290482"
+     inkscape:cx="173.44619"
+     inkscape:cy="504.02303"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1112,7 +1112,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1493,5 +1493,21 @@
          x="114.82365"
          y="280.45175"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:7.30357361px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#ffffff;stroke:none;stroke-width:2.42175269">https://t.me/BlankOnLinux</tspan></text>
+    <text
+       id="text1723"
+       y="256.19986"
+       x="201.98511"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05916071px;line-height:9.05208874px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.00153327;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:9.05208874px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#ffffff;stroke:none;stroke-width:3.00153327"
+         y="256.19986"
+         x="201.98511"
+         sodipodi:role="line"
+         id="tspan1721">Formulir Pendaftaran</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:9.05208874px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:end;text-anchor:end;fill:#ffffff;stroke:none;stroke-width:3.00153327"
+         y="265.25195"
+         x="201.98511"
+         sodipodi:role="line"
+         id="tspan1725">http://s.id/hJH</tspan></text>
   </g>
 </svg>

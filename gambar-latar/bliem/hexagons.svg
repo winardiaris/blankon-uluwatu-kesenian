@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1016mm"
+   height="571.50006mm"
+   viewBox="0 0 1016 571.50006"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 unknown"
+   sodipodi:docname="hexagons.svg"
+   inkscape:export-filename="/home/belthsazar2/blankon-uluwatu-kesenian/gambar-latar/bliem/hexagons.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <title
+     id="title6815">Hexagons</title>
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       end_linecap_type="butt"
+       miter_limit="4"
+       linejoin_type="extrp_arc"
+       start_linecap_type="butt"
+       interpolator_beta="0.2"
+       interpolator_type="CubicBezierFit"
+       sort_points="true"
+       offset_points="0.2,1.5 | 2.0132253,10.571318 | 3.8,1.5"
+       is_visible="true"
+       id="path-effect5085"
+       effect="powerstroke" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect5068"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       only_selected="false"
+       apply_with_weight="true"
+       apply_no_weight="true"
+       helper_size="0"
+       steps="2"
+       weight="33.333333"
+       is_visible="true"
+       id="path-effect5064"
+       effect="bspline" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="2082.7783"
+     inkscape:cy="925.28196"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-nodes="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="708"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Hexagons</dc:title>
+        <dc:date>2017-03-21</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Vikko Okviandho Liem</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Belthsazar Liem of ISO-arts</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(565.99749,156.86261)">
+    <g
+       id="g6813"
+       transform="translate(62.00653,-17.10525)">
+      <path
+         style="opacity:1;fill:#ffa726;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -628.00402,-139.75728 h 1016 v 571.5 h -1016 z"
+         id="path6786"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:0.25;fill:#fffefd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -628.00401,431.74271 285.74998,1e-5 730.25001,-571.5 z"
+         id="path6794"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="opacity:0.25;fill:#fffefd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 387.99598,-139.75728 -1016,225.273806 10e-6,173.113094 z"
+         id="path6798"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="opacity:0.25;fill:#fffefd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -56.504029,431.74271 285.749979,1e-5 158.75003,-571.5 z"
+         id="path6804"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="path6431"
+         transform="scale(0.26458333)"
+         d="m -2176.2891,-528.2168 -154.1425,88.99414 v 337.98828 l 292.707,168.992192 292.7051,-168.992192 v -337.98828 l -154.1426,-88.99414 h -43.4844 l 149.1934,86.13672 v 280.60156 l -243.0058,140.300786 -243.0079,-140.302736 v -280.59961 l 149.1934,-86.13672 z m 818.127,312.34571 -292.7051,168.994137 V 291.11133 l 292.7051,168.99414 292.707,-168.99414 V -46.876953 Z m 1.2637,25.83593 243.0078,140.300785 V 230.86719 l -243.0058,140.30078 -243.0078,-140.30078 V -49.732422 Z m -666.3672,341.46485 -292.7051,168.99414 v 337.98828 l 292.7051,168.99219 292.707,-168.99219 V 320.42383 Z m 1344.66599,25.04492 -292.70508,168.99414 v 337.98828 l 292.70508,168.99219 292.70508,-168.99414 V 345.46875 Z m -1343.40239,0.79101 243.0079,140.30079 V 598.16797 L -2022,738.4668 -2265.0078,598.16602 V 317.56641 Z m 1344.66606,25.04493 243.00782,140.29883 -0.002,280.60351 -243.00586,140.29883 -243.00781,-140.29883 V 342.61133 Z m -666.36526,341.46484 -292.707,168.99414 v 337.98827 l 292.707,168.9942 292.7051,-168.9942 V 712.76953 Z M 0.96289062,568.82031 -291.74414,737.81445 V 1075.8008 L 0.96289062,1244.7949 293.66797,1075.8027 V 737.81445 Z m -1343.40239062,0.79102 243.0079,140.29883 v 280.60351 l -243.0079,140.29883 -243.0078,-140.29883 V 709.91406 Z M 2.2265625,594.65625 245.23438,734.95703 V 1015.5586 L 2.2265625,1155.8574 -240.78125,1015.5586 V 734.95703 Z M -2008.8047,911.07617 l -292.707,168.99413 v 337.9883 l 292.707,168.9922 292.7051,-168.9922 v -337.9883 z m 1344.66408,25.04492 -292.70508,168.99411 v 337.9864 l 292.70508,168.9941 292.70703,-168.9941 -0.002,-337.9864 z m -1343.40038,0.79102 243.0078,140.30079 v 280.6016 l -243.0058,140.2988 -243.0078,-140.3008 V 1077.2129 Z M 680.52539,961.16602 387.82031,1130.1602 v 337.9863 l 283.42578,163.6367 h 18.5586 l 283.42773,-163.6348 v -337.9882 z m -1343.40039,0.79101 243.00586,140.29887 v 280.6035 l -243.00781,140.2988 -243.00586,-140.2988 -0.002,-280.6016 z m 1344.66406,25.04492 243.00782,140.30075 -0.002,280.5996 -243.00586,140.3008 -243.00781,-140.3008 v -280.5996 z m -2011.03126,316.41995 -292.7051,168.9941 v 159.3672 h 50.961 v -162.2246 l 243.0098,-140.3008 243.0058,140.2988 v 162.2266 h 48.4356 V 1472.416 Z M 15.421875,1328.4668 -277.2832,1497.4609 v 134.3223 h 50.96093 V 1494.6035 L 16.685547,1354.3027 259.69336,1494.6035 v 137.1797 h 48.43555 v -134.3223 z m 1344.666025,25.0449 -292.7051,168.9942 v 109.2773 h 50.9629 v -112.1348 l 243.0059,-140.3007 105.0898,60.6738 v -25.1074 z"
+         style="opacity:1;fill:#e65100;fill-opacity:1;stroke:none;stroke-width:37.79528046;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

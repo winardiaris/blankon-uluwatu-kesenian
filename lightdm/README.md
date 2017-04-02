@@ -16,3 +16,6 @@
 	- berkas.xcf
 	- README.md
 	- dll
+
+### Referensi
+https://doclets.io/Antergos/web-greeter/stable
